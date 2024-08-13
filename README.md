@@ -54,9 +54,6 @@ Conclusion:
 - Matplotlib
 - Seaborn
 
-## Key Findings
-(You should summarize your main findings here once you complete the analysis)
-
 ## Repository Structure
 - `heart_disease_clustering.ipynb`: Jupyter notebook containing the full analysis
 - `README.md`: This file, providing an overview of the project
